@@ -92,6 +92,5 @@ Presentasikan pekerjaan anda dalam sebuah video. Pada presentasi:
 2. T01.fprg
 3. changelog.txt
 
-## How to Submit?
-
+## How to Submit? 
 Please see https://youtu.be/cU546lAL9g8

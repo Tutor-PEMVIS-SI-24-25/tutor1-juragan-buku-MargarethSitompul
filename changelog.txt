@@ -1,0 +1,3 @@
+kami sudah menyelesaikan t01
+kami memperbaiki eror pada kode
+kami membuat contoh dari permasalahan alogarotma
